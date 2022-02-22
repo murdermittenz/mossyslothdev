@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development to hopefully help make everyone's lives a bit easier.
 - 🌱 I’m currently learning Python and C#.
 - 💞️ I’m looking to collaborate on creative projects related to game dev or adjacent creative industries.
-- 📫 How to reach me juan@mossysloth.com or @mossyslothdev on Twitter!
+- 📫 How to reach me jtorres17@live.com or @mossyslothdev on Twitter!
 
 <!---
 mossyslothdev/mossyslothdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
